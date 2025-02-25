@@ -1,0 +1,22 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore temp files
+temp.js
+temp.md
+
+# Ignore build artifacts (for frontend frameworks like React, Vite, etc.)
+dist/
+build/
+
+# Ignore editor-specific files
+.vscode/
+.history/
+
+# Ignore logs and debugging files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
